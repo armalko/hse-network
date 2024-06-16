@@ -5,7 +5,7 @@
 
 ### Подтверждение работоспособности
 
-![image info](screen.jpg)
+![image info](screen1.jpg)
 
 ### В случае разрыва связи 
 
